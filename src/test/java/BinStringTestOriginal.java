@@ -1,6 +1,5 @@
 import org.junit.jupiter.api.*;
 
-@Disabled
 public class BinStringTestOriginal {
     private BinString binString;
 
