@@ -1,4 +1,4 @@
-public class BinStringOriginal {
+public class BinString{
 
 
     public String convert(String s){
